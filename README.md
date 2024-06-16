@@ -1,5 +1,6 @@
 # Winget-autoinstaller
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
+[![License: Unlicense](https://commons.wikimedia.org/wiki/File:PD-icon.svg)](https://unlicense.org/)
 
 Script written in Powershell to autoinstall Windows applications via the winget package manager.
 ## Instructions
