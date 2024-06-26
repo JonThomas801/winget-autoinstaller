@@ -72,6 +72,7 @@ $categories = @{
     }
     "Communication Apps" = @{
         "Discord" = "Discord.Discord"
+        "Element" = "Element.Element"
         "Hexchat" = "Hexchat.Hexchat"
         "mIRC" = "mIRC.mIRC"
         "Mozilla Thunderbird" = "Mozilla.Thunderbird"
